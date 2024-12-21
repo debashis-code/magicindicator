@@ -9,6 +9,11 @@ version = '1.0.0'
 sourceCompatibility = 1.8 // java 8
 targetCompatibility = 1.8
 
+java {
+		withSourcesJar()
+		withJavadocJar()
+	}
+	
 android {
   compileSdkVersion 28
   buildToolsVersion "28.0.3"
