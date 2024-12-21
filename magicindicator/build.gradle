@@ -36,6 +36,8 @@ android {
 dependencies {
     implementation project(':library')
     implementation 'androidx.appcompat:appcompat:1.0.0'
+    implementation 'org.springframework.boot:spring-boot-starter:2.5.0'
+
     
 }
 android {
