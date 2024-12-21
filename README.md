@@ -1,6 +1,6 @@
 # android-example
 
-[![Release](https://jitpack.io/v/jitpack/android-example.svg)](https://jitpack.io/#jitpack/android-example)
+[![](https://jitpack.io/v/jitpack/magicindicator.svg?label=Release)](https://jitpack.io/#jitpack/magicindicator) [![](https://jitci.com/gh/debashis-code/magicindicator/svg)](https://jitci.com/gh/debashis-code/magicindicator)
 
 Example Android library project that works with jitpack.io.
 

@@ -1,1 +1,1 @@
-include ':magicindicator'
+include ':magicindicator' , ':library'
